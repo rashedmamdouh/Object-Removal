@@ -3,7 +3,7 @@
 
 |  Input Image | Masked Image | Output Image|
 |--------------|--------------|-------------|
-| ![](Images/image.png)|![](Images/masked.png)|![](output/output.png)
+| ![](Images/image.png)|![](Images/masked.png)|![](Output/output.png)
 
 ## Steps to Run This Code
 
